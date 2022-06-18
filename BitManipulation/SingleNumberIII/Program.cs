@@ -17,32 +17,20 @@
             for(int i = 0; i < A.Length; i++){
 
                 xor = xor ^ A[i];
-
-                Console.WriteLine(xor);
             }
 
             int mask = (xor & (xor -1)) ^ xor;
 
-            Console.WriteLine(mask);
-
-            int seq  = 0;
-
             for(int i = 0; i < A.Length; i++){
                 
                 if((A[i] & mask) == 0){
-                    if(seq==0){
-                        seq = 1;
-                    }
                     x = x^A[i];
                 }else{
-                    if(seq==0){
-                        seq = 2;
-                    }
                     y = y^A[i];
                 }
             }
 
-            if(seq == 1){
+            if(x < y){
                 Console.WriteLine(x);
                 Console.WriteLine(y);
                 return new int[]{x,y};
