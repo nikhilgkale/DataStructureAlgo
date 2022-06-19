@@ -1,0 +1,15 @@
+D:\DataStructureAlgo\BitManipulation\UnsetXBitsFromRight\bin\Debug\net6.0\UnsetXBitsFromRight.exe
+D:\DataStructureAlgo\BitManipulation\UnsetXBitsFromRight\bin\Debug\net6.0\UnsetXBitsFromRight.deps.json
+D:\DataStructureAlgo\BitManipulation\UnsetXBitsFromRight\bin\Debug\net6.0\UnsetXBitsFromRight.runtimeconfig.json
+D:\DataStructureAlgo\BitManipulation\UnsetXBitsFromRight\bin\Debug\net6.0\UnsetXBitsFromRight.dll
+D:\DataStructureAlgo\BitManipulation\UnsetXBitsFromRight\bin\Debug\net6.0\UnsetXBitsFromRight.pdb
+D:\DataStructureAlgo\BitManipulation\UnsetXBitsFromRight\obj\Debug\net6.0\UnsetXBitsFromRight.csproj.AssemblyReference.cache
+D:\DataStructureAlgo\BitManipulation\UnsetXBitsFromRight\obj\Debug\net6.0\UnsetXBitsFromRight.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataStructureAlgo\BitManipulation\UnsetXBitsFromRight\obj\Debug\net6.0\UnsetXBitsFromRight.AssemblyInfoInputs.cache
+D:\DataStructureAlgo\BitManipulation\UnsetXBitsFromRight\obj\Debug\net6.0\UnsetXBitsFromRight.AssemblyInfo.cs
+D:\DataStructureAlgo\BitManipulation\UnsetXBitsFromRight\obj\Debug\net6.0\UnsetXBitsFromRight.csproj.CoreCompileInputs.cache
+D:\DataStructureAlgo\BitManipulation\UnsetXBitsFromRight\obj\Debug\net6.0\UnsetXBitsFromRight.dll
+D:\DataStructureAlgo\BitManipulation\UnsetXBitsFromRight\obj\Debug\net6.0\refint\UnsetXBitsFromRight.dll
+D:\DataStructureAlgo\BitManipulation\UnsetXBitsFromRight\obj\Debug\net6.0\UnsetXBitsFromRight.pdb
+D:\DataStructureAlgo\BitManipulation\UnsetXBitsFromRight\obj\Debug\net6.0\UnsetXBitsFromRight.genruntimeconfig.cache
+D:\DataStructureAlgo\BitManipulation\UnsetXBitsFromRight\obj\Debug\net6.0\ref\UnsetXBitsFromRight.dll
