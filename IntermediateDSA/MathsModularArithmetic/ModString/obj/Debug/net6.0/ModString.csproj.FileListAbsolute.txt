@@ -1,0 +1,15 @@
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/ModString/bin/Debug/net6.0/ModString
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/ModString/bin/Debug/net6.0/ModString.deps.json
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/ModString/bin/Debug/net6.0/ModString.runtimeconfig.json
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/ModString/bin/Debug/net6.0/ModString.dll
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/ModString/bin/Debug/net6.0/ModString.pdb
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/ModString/obj/Debug/net6.0/ModString.csproj.AssemblyReference.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/ModString/obj/Debug/net6.0/ModString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/ModString/obj/Debug/net6.0/ModString.AssemblyInfoInputs.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/ModString/obj/Debug/net6.0/ModString.AssemblyInfo.cs
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/ModString/obj/Debug/net6.0/ModString.csproj.CoreCompileInputs.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/ModString/obj/Debug/net6.0/ModString.dll
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/ModString/obj/Debug/net6.0/refint/ModString.dll
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/ModString/obj/Debug/net6.0/ModString.pdb
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/ModString/obj/Debug/net6.0/ModString.genruntimeconfig.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/ModString/obj/Debug/net6.0/ref/ModString.dll

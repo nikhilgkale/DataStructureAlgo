@@ -1,0 +1,15 @@
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/DivisibilityBy8/bin/Debug/net6.0/DivisibilityBy8
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/DivisibilityBy8/bin/Debug/net6.0/DivisibilityBy8.deps.json
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/DivisibilityBy8/bin/Debug/net6.0/DivisibilityBy8.runtimeconfig.json
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/DivisibilityBy8/bin/Debug/net6.0/DivisibilityBy8.dll
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/DivisibilityBy8/bin/Debug/net6.0/DivisibilityBy8.pdb
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/DivisibilityBy8/obj/Debug/net6.0/DivisibilityBy8.csproj.AssemblyReference.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/DivisibilityBy8/obj/Debug/net6.0/DivisibilityBy8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/DivisibilityBy8/obj/Debug/net6.0/DivisibilityBy8.AssemblyInfoInputs.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/DivisibilityBy8/obj/Debug/net6.0/DivisibilityBy8.AssemblyInfo.cs
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/DivisibilityBy8/obj/Debug/net6.0/DivisibilityBy8.csproj.CoreCompileInputs.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/DivisibilityBy8/obj/Debug/net6.0/DivisibilityBy8.dll
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/DivisibilityBy8/obj/Debug/net6.0/refint/DivisibilityBy8.dll
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/DivisibilityBy8/obj/Debug/net6.0/DivisibilityBy8.pdb
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/DivisibilityBy8/obj/Debug/net6.0/DivisibilityBy8.genruntimeconfig.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/MathsModularArithmetic/DivisibilityBy8/obj/Debug/net6.0/ref/DivisibilityBy8.dll

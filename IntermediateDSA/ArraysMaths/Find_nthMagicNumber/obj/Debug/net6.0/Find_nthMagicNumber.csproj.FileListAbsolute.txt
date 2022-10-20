@@ -1,0 +1,15 @@
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/Find_nthMagicNumber/bin/Debug/net6.0/Find_nthMagicNumber
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/Find_nthMagicNumber/bin/Debug/net6.0/Find_nthMagicNumber.deps.json
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/Find_nthMagicNumber/bin/Debug/net6.0/Find_nthMagicNumber.runtimeconfig.json
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/Find_nthMagicNumber/bin/Debug/net6.0/Find_nthMagicNumber.dll
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/Find_nthMagicNumber/bin/Debug/net6.0/Find_nthMagicNumber.pdb
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/Find_nthMagicNumber/obj/Debug/net6.0/Find_nthMagicNumber.csproj.AssemblyReference.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/Find_nthMagicNumber/obj/Debug/net6.0/Find_nthMagicNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/Find_nthMagicNumber/obj/Debug/net6.0/Find_nthMagicNumber.AssemblyInfoInputs.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/Find_nthMagicNumber/obj/Debug/net6.0/Find_nthMagicNumber.AssemblyInfo.cs
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/Find_nthMagicNumber/obj/Debug/net6.0/Find_nthMagicNumber.csproj.CoreCompileInputs.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/Find_nthMagicNumber/obj/Debug/net6.0/Find_nthMagicNumber.dll
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/Find_nthMagicNumber/obj/Debug/net6.0/refint/Find_nthMagicNumber.dll
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/Find_nthMagicNumber/obj/Debug/net6.0/Find_nthMagicNumber.pdb
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/Find_nthMagicNumber/obj/Debug/net6.0/Find_nthMagicNumber.genruntimeconfig.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/Find_nthMagicNumber/obj/Debug/net6.0/ref/Find_nthMagicNumber.dll

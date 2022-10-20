@@ -1,0 +1,15 @@
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/N_By_3_RepeatNumber/bin/Debug/net6.0/N_By_3_RepeatNumber
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/N_By_3_RepeatNumber/bin/Debug/net6.0/N_By_3_RepeatNumber.deps.json
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/N_By_3_RepeatNumber/bin/Debug/net6.0/N_By_3_RepeatNumber.runtimeconfig.json
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/N_By_3_RepeatNumber/bin/Debug/net6.0/N_By_3_RepeatNumber.dll
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/N_By_3_RepeatNumber/bin/Debug/net6.0/N_By_3_RepeatNumber.pdb
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/N_By_3_RepeatNumber/obj/Debug/net6.0/N_By_3_RepeatNumber.csproj.AssemblyReference.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/N_By_3_RepeatNumber/obj/Debug/net6.0/N_By_3_RepeatNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/N_By_3_RepeatNumber/obj/Debug/net6.0/N_By_3_RepeatNumber.AssemblyInfoInputs.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/N_By_3_RepeatNumber/obj/Debug/net6.0/N_By_3_RepeatNumber.AssemblyInfo.cs
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/N_By_3_RepeatNumber/obj/Debug/net6.0/N_By_3_RepeatNumber.csproj.CoreCompileInputs.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/N_By_3_RepeatNumber/obj/Debug/net6.0/N_By_3_RepeatNumber.dll
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/N_By_3_RepeatNumber/obj/Debug/net6.0/refint/N_By_3_RepeatNumber.dll
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/N_By_3_RepeatNumber/obj/Debug/net6.0/N_By_3_RepeatNumber.pdb
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/N_By_3_RepeatNumber/obj/Debug/net6.0/N_By_3_RepeatNumber.genruntimeconfig.cache
+/Users/nikhilkale17/Desktop/Nikhil/DataStructureAlgo/ArraysMaths/N_By_3_RepeatNumber/obj/Debug/net6.0/ref/N_By_3_RepeatNumber.dll
