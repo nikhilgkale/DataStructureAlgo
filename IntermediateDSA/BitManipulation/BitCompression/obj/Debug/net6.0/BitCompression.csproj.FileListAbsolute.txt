@@ -1,0 +1,15 @@
+D:\DataStructureAlgo\BitManipulation\BitCompression\bin\Debug\net6.0\BitCompression.exe
+D:\DataStructureAlgo\BitManipulation\BitCompression\bin\Debug\net6.0\BitCompression.deps.json
+D:\DataStructureAlgo\BitManipulation\BitCompression\bin\Debug\net6.0\BitCompression.runtimeconfig.json
+D:\DataStructureAlgo\BitManipulation\BitCompression\bin\Debug\net6.0\BitCompression.dll
+D:\DataStructureAlgo\BitManipulation\BitCompression\bin\Debug\net6.0\BitCompression.pdb
+D:\DataStructureAlgo\BitManipulation\BitCompression\obj\Debug\net6.0\BitCompression.csproj.AssemblyReference.cache
+D:\DataStructureAlgo\BitManipulation\BitCompression\obj\Debug\net6.0\BitCompression.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataStructureAlgo\BitManipulation\BitCompression\obj\Debug\net6.0\BitCompression.AssemblyInfoInputs.cache
+D:\DataStructureAlgo\BitManipulation\BitCompression\obj\Debug\net6.0\BitCompression.AssemblyInfo.cs
+D:\DataStructureAlgo\BitManipulation\BitCompression\obj\Debug\net6.0\BitCompression.csproj.CoreCompileInputs.cache
+D:\DataStructureAlgo\BitManipulation\BitCompression\obj\Debug\net6.0\BitCompression.dll
+D:\DataStructureAlgo\BitManipulation\BitCompression\obj\Debug\net6.0\refint\BitCompression.dll
+D:\DataStructureAlgo\BitManipulation\BitCompression\obj\Debug\net6.0\BitCompression.pdb
+D:\DataStructureAlgo\BitManipulation\BitCompression\obj\Debug\net6.0\BitCompression.genruntimeconfig.cache
+D:\DataStructureAlgo\BitManipulation\BitCompression\obj\Debug\net6.0\ref\BitCompression.dll

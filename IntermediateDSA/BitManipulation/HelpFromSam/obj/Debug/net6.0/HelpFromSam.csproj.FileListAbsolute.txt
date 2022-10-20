@@ -1,0 +1,15 @@
+D:\DataStructureAlgo\BitManipulation\HelpFromSam\bin\Debug\net6.0\HelpFromSam.exe
+D:\DataStructureAlgo\BitManipulation\HelpFromSam\bin\Debug\net6.0\HelpFromSam.deps.json
+D:\DataStructureAlgo\BitManipulation\HelpFromSam\bin\Debug\net6.0\HelpFromSam.runtimeconfig.json
+D:\DataStructureAlgo\BitManipulation\HelpFromSam\bin\Debug\net6.0\HelpFromSam.dll
+D:\DataStructureAlgo\BitManipulation\HelpFromSam\bin\Debug\net6.0\HelpFromSam.pdb
+D:\DataStructureAlgo\BitManipulation\HelpFromSam\obj\Debug\net6.0\HelpFromSam.csproj.AssemblyReference.cache
+D:\DataStructureAlgo\BitManipulation\HelpFromSam\obj\Debug\net6.0\HelpFromSam.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataStructureAlgo\BitManipulation\HelpFromSam\obj\Debug\net6.0\HelpFromSam.AssemblyInfoInputs.cache
+D:\DataStructureAlgo\BitManipulation\HelpFromSam\obj\Debug\net6.0\HelpFromSam.AssemblyInfo.cs
+D:\DataStructureAlgo\BitManipulation\HelpFromSam\obj\Debug\net6.0\HelpFromSam.csproj.CoreCompileInputs.cache
+D:\DataStructureAlgo\BitManipulation\HelpFromSam\obj\Debug\net6.0\HelpFromSam.dll
+D:\DataStructureAlgo\BitManipulation\HelpFromSam\obj\Debug\net6.0\refint\HelpFromSam.dll
+D:\DataStructureAlgo\BitManipulation\HelpFromSam\obj\Debug\net6.0\HelpFromSam.pdb
+D:\DataStructureAlgo\BitManipulation\HelpFromSam\obj\Debug\net6.0\HelpFromSam.genruntimeconfig.cache
+D:\DataStructureAlgo\BitManipulation\HelpFromSam\obj\Debug\net6.0\ref\HelpFromSam.dll
