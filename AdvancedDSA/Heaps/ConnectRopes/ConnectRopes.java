@@ -1,4 +1,4 @@
-package AdvancedDSA.Heaps;
+package AdvancedDSA.Heaps.ConnectRopes;
 
 import java.util.ArrayList;
 import java.util.PriorityQueue;
