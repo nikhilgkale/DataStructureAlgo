@@ -6,8 +6,8 @@ public class PrimeNumber {
         System.out.println("Is "+ n + " Prime : " + solve(n));
     }
 
-    public static boolean solve(int A) {
-        boolean result = true;
+    public static String solve(int A) {
+        String result = "YES";
 
         int count = 0;
         for(int i = 2; i < A; i++){
@@ -17,7 +17,7 @@ public class PrimeNumber {
         }
 
         if(count>0){
-            result = false;
+            result = "NO";
         }
         return result;
     }
