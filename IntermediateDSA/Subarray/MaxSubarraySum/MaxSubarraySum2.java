@@ -1,4 +1,4 @@
-package Subarray;
+package Subarray.MaxSubarraySum;
 
 public class MaxSubarraySum2 {
     
